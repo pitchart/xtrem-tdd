@@ -17,7 +17,7 @@ problems:
 - This minimizes interruption to your workflow
 - You can think about your code as a consumer it is particularly useful when you use `TDD`
     - It generates new types and members in the source code when you first reference them in your test cases, before they are defined
-- Your IDE is more reliable and create code faster than us, so it will avoid you a lot of mistales
+- Your IDE is more reliable and create code faster than us, so it will avoid you a lot of mistakes
 
 ## Problems
     - How can I be more efficient when using my IDE?
@@ -57,3 +57,4 @@ You are authorized to create new code `only from usage` (from a test or producti
 - [Rider generate code from usage](https://www.jetbrains.com/help/rider/Code_Generation__Generating_Code_from_Usage.html)
 - [Generate code from IntelliJ](https://www.jetbrains.com/help/idea/generating-code.html)
 - [Visual Studio Generate from usage Feature](https://docs.microsoft.com/en-us/visualstudio/ide/walkthrough-test-first-support-with-the-generate-from-usage-feature?view=vs-2022)
+- 
